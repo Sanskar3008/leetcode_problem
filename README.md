@@ -24,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sanskar3008/leetcode_problem/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/Sanskar3008/leetcode_problem/tree/master/0273-integer-to-english-words) |
+## String
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/Sanskar3008/leetcode_problem/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/Sanskar3008/leetcode_problem/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
