@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sanskar3008/leetcode_problem/tree/master/0496-next-greater-element-i) |
 | [0870-magic-squares-in-grid](https://github.com/Sanskar3008/leetcode_problem/tree/master/0870-magic-squares-in-grid) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sanskar3008/leetcode_problem/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Sanskar3008/leetcode_problem/tree/master/0870-magic-squares-in-grid) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sanskar3008/leetcode_problem/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Depth-First Search
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sanskar3008/leetcode_problem/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sanskar3008/leetcode_problem/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sanskar3008/leetcode_problem/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
