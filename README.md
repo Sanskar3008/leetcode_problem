@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sanskar3008/leetcode_problem/tree/master/0005-longest-palindromic-substring) |
 | [0273-integer-to-english-words](https://github.com/Sanskar3008/leetcode_problem/tree/master/0273-integer-to-english-words) |
 | [0647-palindromic-substrings](https://github.com/Sanskar3008/leetcode_problem/tree/master/0647-palindromic-substrings) |
 ## Recursion
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sanskar3008/leetcode_problem/tree/master/0005-longest-palindromic-substring) |
 | [0264-ugly-number-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/0264-ugly-number-ii) |
 | [0647-palindromic-substrings](https://github.com/Sanskar3008/leetcode_problem/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/Sanskar3008/leetcode_problem/tree/master/0650-2-keys-keyboard) |
@@ -115,5 +117,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sanskar3008/leetcode_problem/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/Sanskar3008/leetcode_problem/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
