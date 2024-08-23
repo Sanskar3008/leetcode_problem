@@ -121,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sanskar3008/leetcode_problem/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/Sanskar3008/leetcode_problem/tree/master/0647-palindromic-substrings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Sanskar3008/leetcode_problem/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
