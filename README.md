@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Sanskar3008/leetcode_problem/tree/master/0273-integer-to-english-words) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Sanskar3008/leetcode_problem/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Sanskar3008/leetcode_problem/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Sanskar3008/leetcode_problem/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/1240-stone-game-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sanskar3008/leetcode_problem/tree/master/0005-longest-palindromic-substring) |
 | [0273-integer-to-english-words](https://github.com/Sanskar3008/leetcode_problem/tree/master/0273-integer-to-english-words) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Sanskar3008/leetcode_problem/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/Sanskar3008/leetcode_problem/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/Sanskar3008/leetcode_problem/tree/master/0664-strange-printer) |
 ## Recursion
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Sanskar3008/leetcode_problem/tree/master/0476-number-complement) |
+## Simulation
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Sanskar3008/leetcode_problem/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
