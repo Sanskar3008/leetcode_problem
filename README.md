@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sanskar3008/leetcode_problem/tree/master/0496-next-greater-element-i) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sanskar3008/leetcode_problem/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/Sanskar3008/leetcode_problem/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/Sanskar3008/leetcode_problem/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Sanskar3008/leetcode_problem/tree/master/1325-path-with-maximum-probability) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sanskar3008/leetcode_problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/0264-ugly-number-ii) |
 | [0496-next-greater-element-i](https://github.com/Sanskar3008/leetcode_problem/tree/master/0496-next-greater-element-i) |
 | [0870-magic-squares-in-grid](https://github.com/Sanskar3008/leetcode_problem/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/Sanskar3008/leetcode_problem/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sanskar3008/leetcode_problem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Stack
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sanskar3008/leetcode_problem/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/Sanskar3008/leetcode_problem/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sanskar3008/leetcode_problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sanskar3008/leetcode_problem/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Graph
