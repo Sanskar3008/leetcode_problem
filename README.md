@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Sanskar3008/leetcode_problem/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/Sanskar3008/leetcode_problem/tree/master/0179-largest-number) |
 | [0496-next-greater-element-i](https://github.com/Sanskar3008/leetcode_problem/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/Sanskar3008/leetcode_problem/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sanskar3008/leetcode_problem/tree/master/0624-maximum-distance-in-arrays) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sanskar3008/leetcode_problem/tree/master/0005-longest-palindromic-substring) |
+| [0179-largest-number](https://github.com/Sanskar3008/leetcode_problem/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sanskar3008/leetcode_problem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Sanskar3008/leetcode_problem/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/Sanskar3008/leetcode_problem/tree/master/0539-minimum-time-difference) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Sanskar3008/leetcode_problem/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sanskar3008/leetcode_problem/tree/master/0624-maximum-distance-in-arrays) |
 ## Dynamic Programming
 |  |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Sanskar3008/leetcode_problem/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Sanskar3008/leetcode_problem/tree/master/0539-minimum-time-difference) |
 ## Memoization
 |  |
