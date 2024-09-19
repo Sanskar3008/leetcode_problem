@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sanskar3008/leetcode_problem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Sanskar3008/leetcode_problem/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/Sanskar3008/leetcode_problem/tree/master/0539-minimum-time-difference) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sanskar3008/leetcode_problem/tree/master/0005-longest-palindromic-substring) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sanskar3008/leetcode_problem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Sanskar3008/leetcode_problem/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/Sanskar3008/leetcode_problem/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Sanskar3008/leetcode_problem/tree/master/0564-find-the-closest-palindrome) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sanskar3008/leetcode_problem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Sanskar3008/leetcode_problem/tree/master/0273-integer-to-english-words) |
 ## Matrix
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sanskar3008/leetcode_problem/tree/master/0005-longest-palindromic-substring) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sanskar3008/leetcode_problem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/0264-ugly-number-ii) |
 | [0647-palindromic-substrings](https://github.com/Sanskar3008/leetcode_problem/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/Sanskar3008/leetcode_problem/tree/master/0650-2-keys-keyboard) |
@@ -234,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/Sanskar3008/leetcode_problem/tree/master/0539-minimum-time-difference) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sanskar3008/leetcode_problem/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
