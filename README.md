@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sanskar3008/leetcode_problem/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/Sanskar3008/leetcode_problem/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sanskar3008/leetcode_problem/tree/master/0624-maximum-distance-in-arrays) |
+| [0859-design-circular-deque](https://github.com/Sanskar3008/leetcode_problem/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Sanskar3008/leetcode_problem/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Sanskar3008/leetcode_problem/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/1240-stone-game-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Sanskar3008/leetcode_problem/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sanskar3008/leetcode_problem/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/Sanskar3008/leetcode_problem/tree/master/0859-design-circular-deque) |
 ## Math
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/Sanskar3008/leetcode_problem/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/Sanskar3008/leetcode_problem/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sanskar3008/leetcode_problem/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Sanskar3008/leetcode_problem/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sanskar3008/leetcode_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sanskar3008/leetcode_problem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Sanskar3008/leetcode_problem/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
