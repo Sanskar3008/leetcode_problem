@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Sanskar3008/leetcode_problem/tree/master/1325-path-with-maximum-probability) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sanskar3008/leetcode_problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Sanskar3008/leetcode_problem/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sanskar3008/leetcode_problem/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sanskar3008/leetcode_problem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sanskar3008/leetcode_problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sanskar3008/leetcode_problem/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Sanskar3008/leetcode_problem/tree/master/0496-next-greater-element-i) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sanskar3008/leetcode_problem/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Sanskar3008/leetcode_problem/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Sanskar3008/leetcode_problem/tree/master/0432-all-oone-data-structure) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sanskar3008/leetcode_problem/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Sanskar3008/leetcode_problem/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Sanskar3008/leetcode_problem/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Math
 |  |
 | ------- |
