@@ -14,30 +14,30 @@
  * }
  */
 class Solution {
-    List<TreeNode>l=new ArrayList<>();
     public void flatten(TreeNode root) {
-        if(root==null)
-        return;
-        preorder(root);
-
-        root=l.get(0);
-
-        for(int i=1;i<l.size();i++)
-        {
-          l.get(i-1).left=null;
-          l.get(i-1).right=l.get(i);
-        }
-        
+        find(root);
     }
-
-    public void preorder(TreeNode n)
+ public void find(TreeNode n)
+ {
+    if(n==null)
     {
-        if(n==null)
-        return ;
-
-        l.add(n);
-        preorder(n.left);
-        preorder(n.right);
-
+        return;
     }
+    
+    TreeNode temp=n.left;
+   if(temp!=null)
+   {
+    while(temp.right!=null)
+    {
+       temp=temp.right;
+    }
+   }
+    if(temp!=null)
+   { temp.right=n.right;
+    n.right=n.left;
+    n.left=null;
+   }
+    find(n.right);
+     
+  }
 }
