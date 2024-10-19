@@ -15,17 +15,12 @@
  */
 class Solution {
     public void flatten(TreeNode root) {
-        find(root);
-    }
- public void find(TreeNode n)
- {
-    if(n==null)
-    {
-        return;
-    }
-    
-    TreeNode temp=n.left;
-   if(temp!=null)
+        TreeNode n=root;
+
+        while(n!=null)
+        {
+            TreeNode temp=n.left;
+             if(temp!=null)
    {
     while(temp.right!=null)
     {
@@ -37,7 +32,8 @@ class Solution {
     n.right=n.left;
     n.left=null;
    }
-    find(n.right);
-     
-  }
+   n=n.right;
+        }
+        
+    }
 }
