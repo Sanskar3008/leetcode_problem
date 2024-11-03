@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Sanskar3008/leetcode_problem/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/Sanskar3008/leetcode_problem/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/Sanskar3008/leetcode_problem/tree/master/0664-strange-printer) |
+| [0812-rotate-string](https://github.com/Sanskar3008/leetcode_problem/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sanskar3008/leetcode_problem/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sanskar3008/leetcode_problem/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sanskar3008/leetcode_problem/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -337,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sanskar3008/leetcode_problem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Sanskar3008/leetcode_problem/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
