@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sanskar3008/leetcode_problem/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Sanskar3008/leetcode_problem/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sanskar3008/leetcode_problem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Sanskar3008/leetcode_problem/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sanskar3008/leetcode_problem/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/Sanskar3008/leetcode_problem/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sanskar3008/leetcode_problem/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sanskar3008/leetcode_problem/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sanskar3008/leetcode_problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sanskar3008/leetcode_problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Sanskar3008/leetcode_problem/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/Sanskar3008/leetcode_problem/tree/master/2716-prime-subtraction-operation) |
 ## Heap (Priority Queue)
 |  |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Sanskar3008/leetcode_problem/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Sanskar3008/leetcode_problem/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Sanskar3008/leetcode_problem/tree/master/1256-rank-transform-of-an-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Sanskar3008/leetcode_problem/tree/master/2179-most-beautiful-item-for-each-query) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sanskar3008/leetcode_problem/tree/master/3291-find-if-array-can-be-sorted) |
 ## Memoization
 |  |
