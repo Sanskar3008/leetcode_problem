@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Sanskar3008/leetcode_problem/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Sanskar3008/leetcode_problem/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Sanskar3008/leetcode_problem/tree/master/0906-walking-robot-simulation) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanskar3008/leetcode_problem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1240-stone-game-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Sanskar3008/leetcode_problem/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Sanskar3008/leetcode_problem/tree/master/1325-path-with-maximum-probability) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Sanskar3008/leetcode_problem/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sanskar3008/leetcode_problem/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sanskar3008/leetcode_problem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanskar3008/leetcode_problem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Sanskar3008/leetcode_problem/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/Sanskar3008/leetcode_problem/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sanskar3008/leetcode_problem/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Sanskar3008/leetcode_problem/tree/master/0870-magic-squares-in-grid) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanskar3008/leetcode_problem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sanskar3008/leetcode_problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sanskar3008/leetcode_problem/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Sanskar3008/leetcode_problem/tree/master/2035-count-sub-islands) |
