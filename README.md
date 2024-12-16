@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sanskar3008/leetcode_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sanskar3008/leetcode_problem/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sanskar3008/leetcode_problem/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanskar3008/leetcode_problem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/1240-stone-game-ii) |
 | [2155-find-missing-observations](https://github.com/Sanskar3008/leetcode_problem/tree/master/2155-find-missing-observations) |
 | [2716-prime-subtraction-operation](https://github.com/Sanskar3008/leetcode_problem/tree/master/2716-prime-subtraction-operation) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanskar3008/leetcode_problem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Sanskar3008/leetcode_problem/tree/master/1917-maximum-average-pass-ratio) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Sanskar3008/leetcode_problem/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2803-modify-graph-edge-weights](https://github.com/Sanskar3008/leetcode_problem/tree/master/2803-modify-graph-edge-weights) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanskar3008/leetcode_problem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanskar3008/leetcode_problem/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Sanskar3008/leetcode_problem/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sanskar3008/leetcode_problem/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanskar3008/leetcode_problem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Graph
 |  |
 | ------- |
