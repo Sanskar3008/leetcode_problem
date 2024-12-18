@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/0063-unique-paths-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sanskar3008/leetcode_problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/Sanskar3008/leetcode_problem/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Sanskar3008/leetcode_problem/tree/master/0179-largest-number) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/0063-unique-paths-ii) |
 | [0787-sliding-puzzle](https://github.com/Sanskar3008/leetcode_problem/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/Sanskar3008/leetcode_problem/tree/master/0870-magic-squares-in-grid) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanskar3008/leetcode_problem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sanskar3008/leetcode_problem/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Sanskar3008/leetcode_problem/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Sanskar3008/leetcode_problem/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Sanskar3008/leetcode_problem/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/0213-house-robber-ii) |
