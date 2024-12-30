@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sanskar3008/leetcode_problem/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sanskar3008/leetcode_problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/Sanskar3008/leetcode_problem/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/Sanskar3008/leetcode_problem/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Sanskar3008/leetcode_problem/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Sanskar3008/leetcode_problem/tree/master/0198-house-robber) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sanskar3008/leetcode_problem/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sanskar3008/leetcode_problem/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Sanskar3008/leetcode_problem/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Sanskar3008/leetcode_problem/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sanskar3008/leetcode_problem/tree/master/0241-different-ways-to-add-parentheses) |
