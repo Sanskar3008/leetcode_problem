@@ -2,17 +2,18 @@ class Solution {
     int t[][]=new int [201][201];
     public int minimumTotal(List<List<Integer>> triangle) {
 
-        // for(int i=0;i<t.length;i++)
-        // {
-        //     Arrays.fill(t[i],-1);
-        // }
+        for(int i=0;i<t.length;i++)
+        {
+            Arrays.fill(t[i],-1);
+        }
         // int min=Integer.MAX_VALUE;
         // for(int i=0;i<triangle.get(triangle.size()-1).size();i++)
         // {
         // min=Math.min(min,solve(triangle,triangle.size()-1,i));
         // }
-        return solve2(triangle);
        // return min;
+      //  return solve2(triangle);
+       return solve3(triangle,0,0);
         
     }
     public int solve(List<List<Integer>>arr,int i,int j)
@@ -80,5 +81,21 @@ class Solution {
        }
 
        return min;
+    }
+
+    public int solve3(List<List<Integer>>arr,int i,int j)
+    {
+        if(i==arr.size()-1)
+        {
+           
+            return arr.get(i).get(j);
+        }
+        if(t[i][j]!=-1)
+        return t[i][j];
+
+        int l=arr.get(i).get(j)+solve3(arr,i+1,j);
+        int r=arr.get(i).get(j)+solve3(arr,i+1,j+1);
+
+        return t[i][j]= Math.min(l,r);
     }
 }
