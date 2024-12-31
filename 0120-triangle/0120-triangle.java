@@ -11,7 +11,8 @@ class Solution {
         {
         min=Math.min(min,solve(triangle,triangle.size()-1,i));
         }
-        return min;
+        return solve2(triangle);
+       // return min;
         
     }
     public int solve(List<List<Integer>>arr,int i,int j)
@@ -34,5 +35,50 @@ class Solution {
         int r=arr.get(i).get(j)+solve(arr,i-1,j-1);
 
         return t[i][j]= Math.min(l,r);
+    }
+
+    public int solve2(List<List<Integer>>arr)
+    {
+       int  dp[][] =new int [arr.size()][arr.get(arr.size()-1).size()];
+
+       dp[0][0]=arr.get(0).get(0);
+
+       for(int i=1;i<arr.size();i++)
+       {
+        for(int j=0;j<arr.get(i).size();j++)
+        {
+            int l=0;
+            int r=0;
+
+            if(j-1>=0)
+            {
+                r=arr.get(i).get(j)+dp[i-1][j-1];
+            }
+            else
+            {
+                r=Integer.MAX_VALUE;;
+            }
+            if(j>=arr.get(i-1).size())
+            {
+            l=Integer.MAX_VALUE;
+            }
+            else
+            {
+                l=arr.get(i).get(j)+dp[i-1][j];
+            }
+
+          dp[i][j]=Math.min(l,r);
+
+        }
+       }
+
+       int min=Integer.MAX_VALUE;
+
+       for(int j=0;j<dp[dp.length-1].length;j++)
+       {
+        min=Math.min(min,dp[dp.length-1][j]);
+       }
+
+       return min;
     }
 }
