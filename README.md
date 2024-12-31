@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Sanskar3008/leetcode_problem/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Sanskar3008/leetcode_problem/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Sanskar3008/leetcode_problem/tree/master/0906-walking-robot-simulation) |
+| [0967-minimum-falling-path-sum](https://github.com/Sanskar3008/leetcode_problem/tree/master/0967-minimum-falling-path-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanskar3008/leetcode_problem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1240-stone-game-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Sanskar3008/leetcode_problem/tree/master/1256-rank-transform-of-an-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sanskar3008/leetcode_problem/tree/master/0064-minimum-path-sum) |
 | [0787-sliding-puzzle](https://github.com/Sanskar3008/leetcode_problem/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/Sanskar3008/leetcode_problem/tree/master/0870-magic-squares-in-grid) |
+| [0967-minimum-falling-path-sum](https://github.com/Sanskar3008/leetcode_problem/tree/master/0967-minimum-falling-path-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanskar3008/leetcode_problem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sanskar3008/leetcode_problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sanskar3008/leetcode_problem/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Sanskar3008/leetcode_problem/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/Sanskar3008/leetcode_problem/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Sanskar3008/leetcode_problem/tree/master/0664-strange-printer) |
+| [0967-minimum-falling-path-sum](https://github.com/Sanskar3008/leetcode_problem/tree/master/0967-minimum-falling-path-sum) |
 | [1240-stone-game-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Sanskar3008/leetcode_problem/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Prefix Sum
