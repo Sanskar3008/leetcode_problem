@@ -13,7 +13,8 @@ class Solution {
         // }
        // return min;
       //  return solve2(triangle);
-       return solve3(triangle,0,0);
+      // return solve3(triangle,0,0);
+        return solve4(triangle);
         
     }
     public int solve(List<List<Integer>>arr,int i,int j)
@@ -97,5 +98,28 @@ class Solution {
         int r=arr.get(i).get(j)+solve3(arr,i+1,j+1);
 
         return t[i][j]= Math.min(l,r);
+    }
+
+    public int solve4(List<List<Integer>>arr)
+    {
+          int  dp[][] =new int [arr.size()][arr.get(arr.size()-1).size()];
+
+          for(int j=0;j<arr.get(arr.size()-1).size();j++)
+          {
+               dp[arr.size()-1][j]=arr.get(arr.size()-1).get(j);
+          }
+
+          for(int i=arr.size()-2;i>=0;i--)
+          {
+            for(int j=0;j<arr.get(i).size();j++)
+            {
+                int l=arr.get(i).get(j)+dp[i+1][j];
+                int r=arr.get(i).get(j)+dp[i+1][j+1];
+
+                 dp[i][j]=Math.min(l,r);
+            }
+          }
+
+          return dp[0][0];
     }
 }
