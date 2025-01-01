@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Sanskar3008/leetcode_problem/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Sanskar3008/leetcode_problem/tree/master/0906-walking-robot-simulation) |
 | [0967-minimum-falling-path-sum](https://github.com/Sanskar3008/leetcode_problem/tree/master/0967-minimum-falling-path-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/Sanskar3008/leetcode_problem/tree/master/1025-minimum-cost-for-tickets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanskar3008/leetcode_problem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1240-stone-game-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Sanskar3008/leetcode_problem/tree/master/1256-rank-transform-of-an-array) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Sanskar3008/leetcode_problem/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Sanskar3008/leetcode_problem/tree/master/0664-strange-printer) |
 | [0967-minimum-falling-path-sum](https://github.com/Sanskar3008/leetcode_problem/tree/master/0967-minimum-falling-path-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/Sanskar3008/leetcode_problem/tree/master/1025-minimum-cost-for-tickets) |
 | [1240-stone-game-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Sanskar3008/leetcode_problem/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Sanskar3008/leetcode_problem/tree/master/2562-count-ways-to-build-good-strings) |
