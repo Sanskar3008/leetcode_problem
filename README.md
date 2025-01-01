@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Sanskar3008/leetcode_problem/tree/master/0967-minimum-falling-path-sum) |
 | [1240-stone-game-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Sanskar3008/leetcode_problem/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Sanskar3008/leetcode_problem/tree/master/2562-count-ways-to-build-good-strings) |
 ## Prefix Sum
 |  |
 | ------- |
