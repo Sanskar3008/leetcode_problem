@@ -7,25 +7,27 @@ class Solution {
         {
             total+=nums[i];
         }
-           int [][]t=new int[nums.length][total+1];
+        if(total%2!=0)
+        return false;
+           int [][]t=new int[nums.length][total/2+1];
            
         for(int i=0;i<t.length;i++)
         {
             Arrays.fill(t[i],-1);
         }
-        return solve(nums,nums.length-1,total,0,t);
+        return solve(nums,nums.length-1,total/2,0,t);
     }
 
-    public boolean solve(int []nums,int i,int total,int cur,int [][]t )
+    public boolean solve(int []nums,int i,int tar ,int cur,int [][]t)
     {
-        if(total-cur==cur)
+        if(cur==tar)
         {
             return true;
         }
 
         if(i==0)
-        { cur+=nums[0];
-            return (cur)==(total-cur);
+        {
+            return tar==nums[0];
         }
 
         if(t[i][cur]!=-1)
@@ -33,17 +35,14 @@ class Solution {
             return t[i][cur]==1?true:false;
         }
 
-        boolean nt=solve(nums,i-1,total,cur,t);
-
-        boolean ta=false;
-
-        if(nums[i]+cur<=total-(nums[i]+cur))
+        boolean nt=solve(nums,i-1,tar,cur,t);
+      boolean ta=false;
+        if(cur+nums[i]<=tar)
         {
-            ta=solve(nums,i-1,total,cur+nums[i],t);
+            ta=solve(nums,i-1,tar,cur+nums[i],t);
         }
-
-      t[i][cur]=  nt||ta?1:0;
-
+  t[i][cur]=nt||ta?1:0;
         return nt||ta;
+        
     }
 }
