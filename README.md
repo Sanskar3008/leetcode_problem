@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Sanskar3008/leetcode_problem/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Sanskar3008/leetcode_problem/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Sanskar3008/leetcode_problem/tree/master/0906-walking-robot-simulation) |
+| [0952-word-subsets](https://github.com/Sanskar3008/leetcode_problem/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/Sanskar3008/leetcode_problem/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sanskar3008/leetcode_problem/tree/master/1025-minimum-cost-for-tickets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanskar3008/leetcode_problem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Sanskar3008/leetcode_problem/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Sanskar3008/leetcode_problem/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sanskar3008/leetcode_problem/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/Sanskar3008/leetcode_problem/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sanskar3008/leetcode_problem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sanskar3008/leetcode_problem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Sanskar3008/leetcode_problem/tree/master/1256-rank-transform-of-an-array) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Sanskar3008/leetcode_problem/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/Sanskar3008/leetcode_problem/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sanskar3008/leetcode_problem/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/Sanskar3008/leetcode_problem/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sanskar3008/leetcode_problem/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sanskar3008/leetcode_problem/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sanskar3008/leetcode_problem/tree/master/1786-count-the-number-of-consistent-strings) |
