@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sanskar3008/leetcode_problem/tree/master/0496-next-greater-element-i) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sanskar3008/leetcode_problem/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sanskar3008/leetcode_problem/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sanskar3008/leetcode_problem/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sanskar3008/leetcode_problem/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sanskar3008/leetcode_problem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sanskar3008/leetcode_problem/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Sanskar3008/leetcode_problem/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sanskar3008/leetcode_problem/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanskar3008/leetcode_problem/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sanskar3008/leetcode_problem/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sanskar3008/leetcode_problem/tree/master/2300-construct-string-with-repeat-limit) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Sanskar3008/leetcode_problem/tree/master/0624-maximum-distance-in-arrays) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sanskar3008/leetcode_problem/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Sanskar3008/leetcode_problem/tree/master/2089-maximum-matrix-sum) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sanskar3008/leetcode_problem/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sanskar3008/leetcode_problem/tree/master/2300-construct-string-with-repeat-limit) |
 | [2716-prime-subtraction-operation](https://github.com/Sanskar3008/leetcode_problem/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Sanskar3008/leetcode_problem/tree/master/3195-separate-black-and-white-balls) |
