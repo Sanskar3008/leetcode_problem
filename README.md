@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/Sanskar3008/leetcode_problem/tree/master/2089-maximum-matrix-sum) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sanskar3008/leetcode_problem/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sanskar3008/leetcode_problem/tree/master/2300-construct-string-with-repeat-limit) |
+| [2509-minimize-xor](https://github.com/Sanskar3008/leetcode_problem/tree/master/2509-minimize-xor) |
 | [2716-prime-subtraction-operation](https://github.com/Sanskar3008/leetcode_problem/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Sanskar3008/leetcode_problem/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sanskar3008/leetcode_problem/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sanskar3008/leetcode_problem/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sanskar3008/leetcode_problem/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2509-minimize-xor](https://github.com/Sanskar3008/leetcode_problem/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Sanskar3008/leetcode_problem/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sanskar3008/leetcode_problem/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sanskar3008/leetcode_problem/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
