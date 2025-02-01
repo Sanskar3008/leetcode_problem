@@ -1,6 +1,6 @@
 class Solution {
     public boolean isArraySpecial(int[] nums) {
-        if(nums.length==1)
+         if(nums.length==1)
             return true;
         for(int i=1;i<nums.length;i++)
         {
@@ -12,4 +12,4 @@ class Solution {
         
         return true;
     }
-}
+    }
